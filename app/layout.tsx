@@ -9,8 +9,8 @@ const dotGothic16 = DotGothic16({
 });
 
 export const metadata = {
-	title: "Passlocker",
-	description: "Password manager on Solana",
+	title: "Drac portfolio",
+	description: "Hi.",
 };
 
 export default function RootLayout({
