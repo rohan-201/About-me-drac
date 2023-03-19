@@ -43,7 +43,7 @@ export default function Home() {
 						<br />
 						<br /> 
 						
-						<p className = "text-green-400">I also have great knowlegde of video editing and UI/UX desiging</p>
+						<p className = "text-green-400">I also have great knowlegde of video editing and UI/UX desiging.</p>
 						<br />
 						<br />
 						I am working on projects like <a className="text-pink-300" href="https://www.maker3.shop " target="_blank" >Maker3</a> and <a className="text-pink-300" href="https://passlocker.vercel.app/" target="_blank" >Passlocker</a>.
